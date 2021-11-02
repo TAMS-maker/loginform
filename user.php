@@ -30,3 +30,12 @@ echo "<br />";
 
 
 ?>
+  <form class="export-main" action="pdf.php" method="post">
+      <input type="submit" name="create_pdf"  value="Create PDF" />
+    </form>
+
+
+
+
+
+    
